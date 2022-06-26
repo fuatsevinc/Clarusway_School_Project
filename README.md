@@ -5,17 +5,10 @@
 
 <h1 align="center">Clarusway_School_Project</h1> 
 
-  
-
-  
-
-  
-
 <!-- TABLE OF CONTENTS --> 
 
  ## `Table of Contents` 
-
-  
+ 
 
 - [Overview](#overview) 
 
@@ -43,11 +36,14 @@
 
   
 
-- HTML 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
+## `Features`
 
-- CSS 
 
-## How To Use 
+
+
+##  `How To Use` 
 
   
 
@@ -59,13 +55,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 
 
 
-## Acknowledgements 
+##  `Acknowledgements` 
 
 - Information for your projects 
 
   
 
-## Contact 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
 
   
 
@@ -78,3 +74,4 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 - Twitter https://twitter.com/FuatSevinc_ 
 
  
+
