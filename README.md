@@ -5,6 +5,7 @@
 
 <h1 align="center">Clarusway_School_Project</h1> 
 
+
 <!-- TABLE OF CONTENTS --> 
 
  ## `Table of Contents` 
@@ -65,11 +66,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 
 <p align="left">
 <a href="https://codepen.io/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://twitter.com/FuatSevinc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fuat-sevin%C3%A7-6a7969217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fuatsevinc66/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 </p>
-
-- Website http://www.fuatsevinc.com 
-
+- This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website</a>
